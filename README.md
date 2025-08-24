@@ -1,2 +1,11 @@
-# lecture_video_demo_config
-Repo from first lecture
+#lecture demo
+
+I created this for the lecture video
+
+## Additional Comments
+
+I think this is interesting
+
+* Item 1
+* Item 2
+* Item 3
