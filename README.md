@@ -1,4 +1,4 @@
-###lecture demo
+# Lecture demo
 
 I created this for the lecture video
 
